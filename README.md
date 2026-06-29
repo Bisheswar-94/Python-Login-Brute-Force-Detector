@@ -9,7 +9,7 @@ A beginner cybersecurity defensive project built with Python.
 - Counts repeated login failures
 - Logs suspicious IP addresses
 - Generates alert reports
-
+  
 ## Technologies Used
 
 - Python
